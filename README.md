@@ -1,4 +1,4 @@
-# This is the solution to the week 5 database assignnment 
+# This is the solution to the week 5 database assignment 
 
 ## Assignment Questions
 
